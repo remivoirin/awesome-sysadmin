@@ -356,6 +356,15 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based database cluster.
 * [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
 
+### MySQL specifics
+
+* [Mycli](http://mycli.net/) - Autocompletion in MySQL.
+
+## Schematics
+*Let's draw.*
+
+* [Draw.io](http://www.draw.io/) - Online but awesome.
+
 ## Security
 *Security tools.*
 
